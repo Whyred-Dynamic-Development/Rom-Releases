@@ -11,19 +11,6 @@ Note: This is a FBEv2 ROM with NO way to disable encryption (at least not for no
 6. Format DATA
 7. Reboot and enjoy!
 
-## Dirty Flash/Update on LOS:
- 1. Open Settings APP
- 2. Go to System
- 3. Go to Updater
- 4. Click on the three dots on the top right
- 5. Select Local Update
- 6. Point to where you downloaded the zip
- 7. Select it
- 8. Let it flash and reboot
- 9. Enjoy your updated rom!
-
-To revert just flash normal recovery and flash normal partition style ROM
-
 ## Issues
 
 ### Whyred Only issue:
